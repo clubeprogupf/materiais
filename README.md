@@ -9,15 +9,14 @@ Links interessantes:
 - [Planilha de Habilidades (Skillset)](https://goo.gl/qdpNKX)
 
 - Portais de programação 
-    - [CodCad](http://www.codcad.com)
-    - [URI Online Judge](https://www.urionlinejudge.com.br)
-    - [UVa Online Judge](https://uva.onlinejudge.org)
+    - [Beecrowd](https://www.beecrowd.com.br)
+    - [Codeforces](https://www.codeforces.com)
+    - [OnlineJudge.org (antigo UVa Online Judge)](https://onlinejudge.org)
 
 - Linguagens de programação
-    - [Tutoriais C++](http://www.cplusplus.com/doc/tutorial)
-    - [Tutoriais Java](http://docs.oracle.com/javase/tutorial/)
+    - [Tutoriais C++](https://www.cplusplus.com/doc/tutorial)
     - [Guia de Referência C++](http://www.cplusplus.com/reference/)
-    - [Guia de Referência Java 7](https://docs.oracle.com/javase/7/docs/api/)
 
-- [Roteiros de Estudo da UFMG](http://wiki.maratona.dcc.ufmg.br/index.php/Roteiros)
-- [VisuAlgo](https://www.visualgo.net)
+- [Clube de Programação da UTFPR-](http://cdp.dainf.ct.utfpr.edu.br/)
+- [Playlist: Jornada de Iniciação do CDP-UTFPR-CT](https://www.youtube.com/watch?v=yaMuigWbpwY&list=PLr1IQIN_exWNKM3xmXpL2h9Ei1Gi7Adq3)
+- [VisuAlgo](https://www.visualgo.net) - Visualização de algoritmos e estruturas de dados
