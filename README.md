@@ -17,6 +17,6 @@ Links interessantes:
     - [Tutoriais C++](https://www.cplusplus.com/doc/tutorial)
     - [Guia de Referência C++](http://www.cplusplus.com/reference/)
 
-- [Clube de Programação da UTFPR-](http://cdp.dainf.ct.utfpr.edu.br/)
-- [Playlist: Jornada de Iniciação do CDP-UTFPR-CT](https://www.youtube.com/watch?v=yaMuigWbpwY&list=PLr1IQIN_exWNKM3xmXpL2h9Ei1Gi7Adq3)
+- [Clube de Programação da UTFPR - Campus Curitiba](http://cdp.dainf.ct.utfpr.edu.br/)
+    - [Playlist: Jornada de Iniciação do CDP-UTFPR-CT](https://www.youtube.com/watch?v=yaMuigWbpwY&list=PLr1IQIN_exWNKM3xmXpL2h9Ei1Gi7Adq3)
 - [VisuAlgo](https://www.visualgo.net) - Visualização de algoritmos e estruturas de dados
